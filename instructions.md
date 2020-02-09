@@ -9,8 +9,7 @@ sudo hidden-eye
 ```
 ### CLONE
 ```
-git clone https://github.com/DarkSecDevelopers/HiddenEye.git
-```
+git clone https://github.com/SamraT-Hacking/Black-Desert-Hacking.git
 
 ### RUNNING (In Linux)
 ```
@@ -96,7 +95,7 @@ sudo apt install python3 python3-pip unzip php git
 
 ```
 ```
-git clone https://github.com/DarkSecDevelopers/HiddenEye.git
+git clone https://github.com/SamraT-Hacking/Black-Desert-Hacking.git
 
 ```
 
@@ -136,7 +135,7 @@ pkg install git python php curl openssh grep
 ```
 
 ```
-git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git
+git clone -b master https://github.com/SamraT-Hacking/Black-Desert-Hacking.git
 ```
 
 ```
@@ -171,6 +170,6 @@ After opening Copy and run this Single Command.
 
 ```
 ```
-pkg install git python php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py
+pkg install git python php curl openssh grep && git clone -b master https://github.com/SamraT-Hacking/Black-Desert-Hacking.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py
 
 ```

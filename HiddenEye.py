@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# HiddenEye by https://github.com/DarkSecDevelopers
+# Black Desert hacking by https://github.com/SamraT-Hacking
 #
 
 from Defs.Languages import *
